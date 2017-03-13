@@ -6,7 +6,7 @@ public class Desimple {
 		int a=1;
 		int b=++a;
 		int m=a*b+a;
-		System.out.println("a*b="+m);
+		System.out.println("a*b=",m);
 
 	}
 
