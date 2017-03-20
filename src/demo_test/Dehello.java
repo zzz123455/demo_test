@@ -8,7 +8,7 @@ public class Dehello {
 		int b=4;
 		int sum;
 		sum=a+b;
-		System.out.println("ÄãºÃ£¬word!"+"  SUM="+sum);
+		System.out.println("ÄãºÃ£¬word!12345"+"  SUM="+sum);
 
 	}
 
